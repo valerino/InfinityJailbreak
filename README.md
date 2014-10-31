@@ -2,12 +2,12 @@ InfinityJailbreak
 =================
 
 ********************************************************************************************************
-* NOTE: As of 31/10/2014, my tests shows that now they implemented checks correctly (serverside, as it * 
-* should always been) so this hack can't work anymore :(                                               *
-* i only investigated barely, just for the 'number of authorized *devices' check since i've bought     *
-* another mobilephone, but that seems the issue.                                                       *
-*                                                                                                      *
-* I leave the code here for historical purposes, so :)                                                 *
+NOTE: As of 31/10/2014, my tests shows that now they implemented checks correctly (serverside, as it 
+should always been) so this hack can't work anymore :(                                               
+i only investigated barely, just for the 'number of authorized *devices' check since i've bought     
+another mobilephone, but that seems the issue.                                                       
+                                                                                                     
+I leave the code here for historical purposes, so :)                                                 
 ********************************************************************************************************
 
 Android XPosedFramwework module to remove stupid pseudo-DRM from InfinityTV Android application 
