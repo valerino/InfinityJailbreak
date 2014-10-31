@@ -2,7 +2,7 @@ InfinityJailbreak
 =================
 
 *****************************************************************************************************************
-NOTE: As of 31/10/2014, my tests shows that now they implemented checks correctly (serverside, as it should ever been) so this hack can't work anymore :( i only investigated barely, just for the 'number of authorized devices' check since i've bought another mobilephone, but that seems the issue. 
+NOTE: As of 31/10/2014, my tests shows that now they implemented checks correctly (serverside, as it should always been) so this hack can't work anymore :( i only investigated barely, just for the 'number of authorized devices' check since i've bought another mobilephone, but that seems the issue. 
 
 The code still remain here for historical purposes :)
 *****************************************************************************************************************
