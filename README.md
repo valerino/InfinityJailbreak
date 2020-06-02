@@ -10,7 +10,7 @@ another mobilephone, but that seems the issue.
 I leave the code here for historical purposes, so :)                                                 
 ********************************************************************************************************
 
-Android XPosedFramwework module to remove stupid pseudo-DRM from InfinityTV Android application 
+Android XPosedFramwework module to remove stupid pseudo-DRM from Mediaset's InfinityTV Android application 
 (you buy it, you watch it everywhere/on every device).
 
 NOTE: THIS IS NOT TO WATCH INFINITY TV WITHOUT A REGULAR SUBSCRIPTION, IT JUST REMOVES SOME OF THE DRM LIMITATIONS.
